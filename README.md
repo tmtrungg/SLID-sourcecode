@@ -1,8 +1,7 @@
-# Revealing The Slow Deception: A Deep Dive into the Slow Liquidity Drain Tokens on Ethereum
-
+# Slow is Fast! Dissecting Ethereum’s Silent Liquidity Drain Scams
 ## OVERVIEW
 
-This repository implements the code and data analytics pipeline described in the paper *"Revealing The Slow Deception: A Deep Dive into the Slow Liquidity Drain Tokens on Ethereum"*. The primary goal is to identify and analyze the **SLID** scam, a newly defined type of fraudulent activity in decentralized finance (DeFi). We use data from Ethereum blocks **6,627,000 (November 2, 2018)** to **20,081,867 (June 13, 2024)**, covering the lifespan of DeFi liquidity pools. Our study analyzes data from the six largest decentralized exchanges (DEXs) on Ethereum, applying heuristic and machine learning methods to detect SLID liquidity pools effectively.
+This repository implements the code and data analytics pipeline described in the paper *"Slow is Fast! Dissecting Ethereum’s Silent Liquidity Drain Scams"*. The primary goal is to identify and analyze the **SLID** scam, a newly defined type of fraudulent activity in decentralized finance (DeFi). We use data from Ethereum blocks **6,627,000 (November 2, 2018)** to **20,081,867 (June 13, 2024)**, covering the lifespan of DeFi liquidity pools. Our study analyzes data from the six largest decentralized exchanges (DEXs) on Ethereum, applying heuristic and machine learning methods to detect SLID liquidity pools effectively.
 
 ## RAW ETHEREUM DATA COLLECTION
 
